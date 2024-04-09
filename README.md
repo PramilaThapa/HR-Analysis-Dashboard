@@ -17,4 +17,5 @@ Stay tuned for more updates on my journey with Power BI and the innovative proje
 
 #PowerBI #DataVisualization #HRAnalytics #ActionableInsights #KPIs #Measures #AttritionRate #EmployeeAttrition #InteractiveDashboard #DataDrivenDecisions #DataAnalysis
 
+![image](https://github.com/PramilaThapa/HR-Analysis-Dashboard/assets/166487251/09247a2a-b189-43ca-b08e-adafddcb2608)
 
